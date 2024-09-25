@@ -1,1 +1,1 @@
-Test de signature de commit
+Test de signature GPG
